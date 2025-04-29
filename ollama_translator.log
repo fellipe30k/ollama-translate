@@ -1,0 +1,4 @@
+# Logfile created on 2025-04-29 11:34:39 -0300 by logger.rb/v1.7.0
+I, [2025-04-29T11:34:39.263526 #1506050]  INFO -- : Servidor de tradução Ollama iniciado na porta 3008
+I, [2025-04-29T11:34:39.263594 #1506050]  INFO -- : Usando modelo: mistral
+I, [2025-04-29T11:34:39.263617 #1506050]  INFO -- : URL do Ollama: http://localhost:11434/api/generate
